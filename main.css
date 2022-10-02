@@ -659,7 +659,7 @@ video {
 }
 
 .bg-fm-mobile{
-  background-image: url(./../public/images/bg-mobile.svg);
+  background-image: url(./images/bg-mobile.svg);
 }
 
 .bg-full{
@@ -779,7 +779,7 @@ video {
   }
 
   .md\:bg-fm-desktop{
-    background-image: url(./../public/images/bg-desktop.svg);
+    background-image: url(./images/bg-desktop.svg);
   }
 
   .md\:bg-full-y{
